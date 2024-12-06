@@ -1,0 +1,28 @@
+Gather information from input if possible
+					1. gather information
+						call retrieve_information()
+						update database table user_inputs
+
+new user comes.
+	- No chat history and personal/trip information
+	
+	if no records in user_inputs table:
+		1. create record
+		2. Call qa_bot()
+
+existing user comes.
+	1. he comes for one trip plan
+	2. he comes to discuss about a trip plan. but he already went for a trip with the company where he will have previous records of previous trip.	
+
+	for now we assume always the user comes for one trip plan.
+	
+	if  there is records in user_inputs table:
+		if all required personal details are not present:
+			1. call intent_analiser to classify the input whether Question or not.
+				if Question:
+					1. Call qa_bot()
+				else:
+					3. Generate question for missing information
+			
+		else if all required personal details are present:
+					1. Call qa_bot()

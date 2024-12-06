@@ -1,0 +1,14 @@
+id,context,question,validation,pharaphrase
+1,Greeting,Hello! How can I help you plan your trip today?,,
+2,Basic Conversation,Which month will you be visiting Sri Lanka? How many days are you planning for your tour?,,
+3,Interest Assessment,"What activities or sights are you interested in? (You can choose multiple: Beaches, Wildlife, Culture, Mountains, Historical Places, Scenic Train Ride)",,
+4,Itinerary Planning,itineraryAPI,,
+5,Service Options,"Would you like to have driver services only, or both driver and hotel bookings?",,
+6,Retrieve More Information,May I know how many travelers will be joining?,,
+7,Quotation Confirmation,quotationAPI,,
+8,Booking Confirmation,"To send you the invoice, can you please provide the following details?
+            ▪ Booked flight details screenshot
+            ▪ Full name as per the passport of the guest making the payment (for banking purposes)
+            ▪ Email address",,
+9,Post-Booking Follow-Up,"Your invoice has been sent. Please complete the payment to confirm your booking. If you have any further questions or need assistance, feel free to ask. Would you like to receive updates and tips for your upcoming trip?",,
+10,Changes,We will redirect you to an agent.,,

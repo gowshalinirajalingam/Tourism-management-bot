@@ -1,0 +1,18 @@
+Memory is not provided in generate_question_to_IR(). But while generating question it included the user name.
+
+Whatsapp is sending old messages again sometimes.
+sometimes updating wrong values.
+if the user gives question and answer in one sentense it is classifying it as question and not retrieving the information. Eg. user input: Can I travel srilanka in April. We are 10 people and we are planning for 1 week
+error comes when images are uploaded.
+add validations to user inputs.
+
+
+
+27/08/2024
+------------
+1. sometimes the itinerary response does't give as mentioned. missing to add itineraryAPI
+response: Based on your interests here's the suggested itinerary for your trip. Does this look good to you? 
+
+2. With Agent will contact you driver question is coming.
+
+

@@ -1,0 +1,275 @@
+Package,Day,Location,Hotels,Meal,Room_Category,Season
+14,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+14,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+14,3,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+14,4,Kandy,Kandy Hills,HB,Deluxe,Winter
+14,5,Kandy,Kandy Hills,HB,Deluxe,Winter
+14,6,Nuwara Eliya,The Ramp,HB,Standard,Winter
+14,7,Nuwara Eliya,The Ramp,HB,Standard,Winter
+14,8,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+14,9,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+14,10,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+14,11,Mirissa,Randiya Sea View,HB,Pool View,Winter
+14,12,Mirissa,Randiya Sea View,HB,Pool View,Winter
+14,13,Mirissa,Randiya Sea View,HB,Pool View,Winter
+14,14,Departure,,,,Winter
+13,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+13,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+13,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+13,4,Nuwara Eliya,The Ramp,HB,Standard,Winter
+13,5,Nuwara Eliya,The Ramp,HB,Standard,Winter
+13,6,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+13,7,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+13,8,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+13,9,Mirissa,Randiya Sea View,HB,Pool View,Winter
+13,10,Mirissa,Randiya Sea View,HB,Pool View,Winter
+13,11,Mirissa,Randiya Sea View,HB,Pool View,Winter
+13,12,Mirissa,Randiya Sea View,HB,Pool View,Winter
+13,13,Departure,,,,Winter
+12,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+12,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+12,3,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+12,4,Kandy,Kandy Hills,HB,Deluxe,Winter
+12,5,Nuwara Eliya,The Ramp,HB,Standard,Winter
+12,6,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+12,7,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+12,8,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+12,9,Mirissa,Randiya Sea View,HB,Pool View,Winter
+12,10,Mirissa,Randiya Sea View,HB,Pool View,Winter
+12,11,Mirissa,Randiya Sea View,HB,Pool View,Winter
+12,12,Departure,,,,Winter
+11,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+11,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+11,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+11,4,Nuwara Eliya,The Ramp,HB,Standard,Winter
+11,5,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+11,6,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+11,7,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+11,8,Mirissa,Randiya Sea View,HB,Pool View,Winter
+11,9,Mirissa,Randiya Sea View,HB,Pool View,Winter
+11,10,Mirissa,Randiya Sea View,HB,Pool View,Winter
+11,11,Departure,,,,Winter
+10,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+10,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+10,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+10,4,Nuwara Eliya,The Ramp,HB,Standard,Winter
+10,5,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+10,6,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+10,7,Mirissa,Randiya Sea View,HB,Pool View,Winter
+10,8,Mirissa,Randiya Sea View,HB,Pool View,Winter
+10,9,Mirissa,Randiya Sea View,HB,Pool View,Winter
+10,10,Departure,,,,Winter
+9,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+9,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+9,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+9,4,Nuwara Eliya,The Ramp,HB,Standard,Winter
+9,5,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+9,6,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+9,7,Mirissa,Randiya Sea View,HB,Pool View,Winter
+9,8,Mirissa,Randiya Sea View,HB,Pool View,Winter
+9,9,Departure,,,,Winter
+8,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+8,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+8,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+8,4,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+8,5,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+8,6,Mirissa,Randiya Sea View,HB,Pool View,Winter
+8,7,Mirissa,Randiya Sea View,HB,Pool View,Winter
+8,8,Departure,,,,Winter
+7,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+7,2,Kandy,Kandy Hills,HB,Deluxe,Winter
+7,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+7,4,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+7,5,Mirissa,Randiya Sea View,HB,Pool View,Winter
+7,6,Mirissa,Randiya Sea View,HB,Pool View,Winter
+7,7,Departure,,,,Winter
+14,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+14,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+14,3,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+14,4,Kandy,Kandy Hills,HB,Deluxe,Winter
+14,5,Kandy,Kandy Hills,HB,Deluxe,Winter
+14,6,Nuwara Eliya,The Ramp,HB,Standard,Winter
+14,7,Nuwara Eliya,The Ramp,HB,Standard,Winter
+14,8,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+14,9,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+14,10,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+14,11,Mirissa,Randiya Sea View,HB,Pool View,Winter
+14,12,Mirissa,Randiya Sea View,HB,Pool View,Winter
+14,13,Mirissa,Randiya Sea View,HB,Pool View,Winter
+14,14,Departure,,,,Winter
+13,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+13,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+13,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+13,4,Nuwara Eliya,The Ramp,HB,Standard,Winter
+13,5,Nuwara Eliya,The Ramp,HB,Standard,Winter
+13,6,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+13,7,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+13,8,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+13,9,Mirissa,Randiya Sea View,HB,Pool View,Winter
+13,10,Mirissa,Randiya Sea View,HB,Pool View,Winter
+13,11,Mirissa,Randiya Sea View,HB,Pool View,Winter
+13,12,Mirissa,Randiya Sea View,HB,Pool View,Winter
+13,13,Departure,,,,Winter
+12,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+12,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+12,3,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+12,4,Kandy,Kandy Hills,HB,Deluxe,Winter
+12,5,Nuwara Eliya,The Ramp,HB,Standard,Winter
+12,6,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+12,7,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+12,8,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+12,9,Mirissa,Randiya Sea View,HB,Pool View,Winter
+12,10,Mirissa,Randiya Sea View,HB,Pool View,Winter
+12,11,Mirissa,Randiya Sea View,HB,Pool View,Winter
+12,12,Departure,,,,Winter
+11,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+11,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+11,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+11,4,Nuwara Eliya,The Ramp,HB,Standard,Winter
+11,5,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+11,6,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+11,7,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+11,8,Mirissa,Randiya Sea View,HB,Pool View,Winter
+11,9,Mirissa,Randiya Sea View,HB,Pool View,Winter
+11,10,Mirissa,Randiya Sea View,HB,Pool View,Winter
+11,11,Departure,,,,Winter
+10,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+10,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+10,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+10,4,Nuwara Eliya,The Ramp,HB,Standard,Winter
+10,5,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+10,6,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+10,7,Mirissa,Randiya Sea View,HB,Pool View,Winter
+10,8,Mirissa,Randiya Sea View,HB,Pool View,Winter
+10,9,Mirissa,Randiya Sea View,HB,Pool View,Winter
+10,10,Departure,,,,Winter
+9,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+9,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+9,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+9,4,Nuwara Eliya,The Ramp,HB,Standard,Winter
+9,5,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+9,6,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+9,7,Mirissa,Randiya Sea View,HB,Pool View,Winter
+9,8,Mirissa,Randiya Sea View,HB,Pool View,Winter
+9,9,Departure,,,,Winter
+8,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+8,2,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+8,3,Kandy,Kandy Hills,HB,Deluxe,Winter
+8,4,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+8,5,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+8,6,Mirissa,Randiya Sea View,HB,Pool View,Winter
+8,7,Mirissa,Randiya Sea View,HB,Pool View,Winter
+8,8,Departure,,,,Winter
+7,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+7,2,Kandy,Kandy Hills,HB,Deluxe,Winter
+7,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+7,4,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+7,5,Mirissa,Randiya Sea View,HB,Pool View,Winter
+7,6,Mirissa,Randiya Sea View,HB,Pool View,Winter
+7,7,Departure,,,,Winter
+6,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+6,2,Kandy,Kandy Hills,HB,Deluxe,Winter
+6,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+6,4,Yala,Oak Ray Wild,HB,Super deluxe,Winter
+6,5,Mirissa,Randiya Sea View,HB,Pool View,Winter
+6,6,Departure,,,,Winter
+5,1,Sigirya,Nivadoo Resort,HB,Chalet,Winter
+5,2,Kandy,Kandy Hills,HB,Deluxe,Winter
+5,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Winter
+5,4,Mirissa,Randiya Sea View,HB,Pool View,Winter
+5,5,Departure,,,,Winter
+14,1,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+14,2,Yala,Oak Ray Wild,HB,Super deluxe,Summer
+14,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+14,4,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+14,5,Nuwara Eliya,The Ramp,HB,Standard,Summer
+14,6,Nuwara Eliya,The Ramp,HB,Standard,Summer
+14,7,Kandy,Kandy Hills,HB,Deluxe,Summer
+14,8,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+14,9,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+14,10,Trincomalee,Cardamon,HB,Deluxe,Summer
+14,11,Trincomalee,Cardamon,HB,Deluxe,Summer
+14,12,Trincomalee,Cardamon,HB,Deluxe,Summer
+14,13,Trincomalee,Cardamon,HB,Deluxe,Summer
+14,14,Departure,,,,Summer
+13,1,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+13,2,Yala,Oak Ray Wild,HB,Super deluxe,Summer
+13,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+13,4,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+13,5,Nuwara Eliya,The Ramp,HB,Standard,Summer
+13,6,Nuwara Eliya,The Ramp,HB,Standard,Summer
+13,7,Kandy,Kandy Hills,HB,Deluxe,Summer
+13,8,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+13,9,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+13,10,Trincomalee,Cardamon,HB,Deluxe,Summer
+13,11,Trincomalee,Cardamon,HB,Deluxe,Summer
+13,12,Trincomalee,Cardamon,HB,Deluxe,Summer
+13,13,Departure,,,,Summer
+12,1,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+12,2,Yala,Oak Ray Wild,HB,Super deluxe,Summer
+12,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+12,4,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+12,5,Nuwara Eliya,The Ramp,HB,Standard,Summer
+12,6,Kandy,Kandy Hills,HB,Deluxe,Summer
+12,7,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+12,8,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+12,9,Trincomalee,Cardamon,HB,Deluxe,Summer
+12,10,Trincomalee,Cardamon,HB,Deluxe,Summer
+12,11,Trincomalee,Cardamon,HB,Deluxe,Summer
+12,12,Departure,,,,Summer
+11,1,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+11,2,Yala,Oak Ray Wild,HB,Super deluxe,Summer
+11,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+11,4,Nuwara Eliya,The Ramp,HB,Standard,Summer
+11,5,Kandy,Kandy Hills,HB,Deluxe,Summer
+11,6,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+11,7,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+11,8,Trincomalee,Cardamon,HB,Deluxe,Summer
+11,9,Trincomalee,Cardamon,HB,Deluxe,Summer
+11,10,Trincomalee,Cardamon,HB,Deluxe,Summer
+11,11,Departure,,,,Summer
+10,1,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+10,2,Yala,Oak Ray Wild,HB,Super deluxe,Summer
+10,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+10,4,Nuwara Eliya,The Ramp,HB,Standard,Summer
+10,5,Kandy,Kandy Hills,HB,Deluxe,Summer
+10,6,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+10,7,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+10,8,Trincomalee,Cardamon,HB,Deluxe,Summer
+10,9,Trincomalee,Cardamon,HB,Deluxe,Summer
+10,10,Departure,,,,Summer
+9,1,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+9,2,Yala,Oak Ray Wild,HB,Super deluxe,Summer
+9,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+9,4,Nuwara Eliya,The Ramp,HB,Standard,Summer
+9,5,Kandy,Kandy Hills,HB,Deluxe,Summer
+9,6,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+9,7,Trincomalee,Cardamon,HB,Deluxe,Summer
+9,8,Trincomalee,Cardamon,HB,Deluxe,Summer
+9,9,Departure,,,,Summer
+8,1,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+8,2,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+8,3,Kandy,Kandy Hills,HB,Deluxe,Summer
+8,4,Nuwara Eliya,The Ramp,HB,Standard,Summer
+8,5,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+8,6,Yala,Oak Ray Wild,HB,Super deluxe,Summer
+8,7,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+8,8,Departure,,,,Summer
+7,1,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+7,2,Kandy,Kandy Hills,HB,Deluxe,Summer
+7,3,Nuwara Eliya,The Ramp,HB,Standard,Summer
+7,4,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+7,5,Yala,Oak Ray Wild,HB,Super deluxe,Summer
+7,6,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+7,7,Departure,,,,Summer
+6,1,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+6,2,Kandy,Kandy Hills,HB,Deluxe,Summer
+6,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+6,4,Yala,Oak Ray Wild,HB,Super deluxe,Summer
+6,5,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+6,6,Departure,HB,,,Summer
+5,1,Sigirya,Nivadoo Resort,HB,Chalet,Summer
+5,2,Kandy,Kandy Hills,HB,Deluxe,Summer
+5,3,Ella,Morning Dew,HB,Deluxe with Mountain view,Summer
+5,4,Mirissa,Randiya Sea View Hotel,HB,Pool View,Summer
+5,5,Departure,,,,Summer

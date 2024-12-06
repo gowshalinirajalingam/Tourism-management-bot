@@ -1,0 +1,38 @@
+Days,Distance,1Num_of_adults,2Num_of_adults,3Num_of_adults,4Num_of_adults,5Num_of_adults,Months,Season
+14,1400,1845,2085,2535,3365,3695,November,Winter
+14,1400,1935,2175,2625,3545,3875,"December, January, February, March, April",Winter
+13,1300,1745,1975,2395,3165,3485,November,Winter
+13,1300,1865,2095,2525,3415,3735,"December, January, February, March, April",Winter
+12,1200,1625,1845,2235,2955,3245,November,Winter
+12,1200,1715,1935,2325,3125,3415,"December, January, February, March, April",Winter
+11,1100,1495,1725,2085,2735,3025,November,Winter
+11,1100,1585,1815,2175,2915,3195,"December, January, February, March, April",Winter
+10,1000,1375,1545,1875,2425,2665,November,Winter
+10,1000,1465,1655,1965,2615,2845,"December, January, February, March, April",Winter
+9,900,1245,1415,1695,2195,2395,November,Winter
+9,900,1295,1475,1755,2315,2515,"December, January, February, March, April",Winter
+8,900,1155,1325,1595,2025,2225,November,Winter
+8,900,1215,1385,1655,2155,2345,"December, January, February, March, April",Winter
+7,900,1065,1235,1485,1855,2025,November,Winter
+7,900,1125,1295,1545,1975,2145,"December, January, February, March, April",Winter
+6,850,945,1085,1295,1635,1775,November,Winter
+6,850,975,1125,1335,1695,1835,"December, January, February, March, April",Winter
+5,800,855,995,1185,1465,1575,November,Winter
+5,800,885,1025,1215,1525,1635,"December, January, February, March, April",Winter
+14,1400,2065,2295,2845,3775,4215,September,Summer
+14,1400,1965,2195,2755,3575,4025,"September, October",Summer
+13,1300,1875,2095,2595,3435,3815,September,Summer
+13,1300,1795,2025,2525,3295,3675,"September, October",Summer
+12,1200,1765,1985,2455,3235,3615,September,Summer
+12,1200,1695,1915,2385,3096,3465,"September, October",Summer
+11,1200,1675,1845,2285,2965,3315,September,Summer
+11,1200,1615,1775,2215,2835,3165,"September, October",Summer
+10,1100,1495,1655,2035,2635,2915,September,Summer
+10,1100,1445,1615,1985,2535,2815,"September, October",Summer
+9,1100,1415,1565,1925,2465,2725,September,Summer
+9,1100,1365,1515,1885,2375,2625,"September, October",Summer
+8,900,1125,1295,1535,1965,2125,"September, October",Summer
+8,900,1125,1295,1535,1965,2125,"September, October",Summer
+7,900,1035,1195,1415,1785,1925,"September, October",Summer
+6,850,935,1085,1285,1595,1725,"September, October",Summer
+5,800,855,995,1175,1445,1565,"September, October",Summer

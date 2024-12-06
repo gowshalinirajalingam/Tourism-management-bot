@@ -1,0 +1,27 @@
+# requests==2.31.0
+# flask==2.3.3
+# python-dotenv==1.0.0
+# google-generativeai==0.3.2
+
+
+
+Flask
+# google-generativeai==0.7.2
+python-dotenv
+langchain
+# langchain_google_genai==1.0.7
+langchain-community
+#pypdf
+chromadb
+pysqlite3-binary #To solve RuntimeError: Your system has an unsupported version of sqlite3. Chroma requires sqlite3 >= 3.35.0. error you need to install it.
+#langgraph 
+#langsmith
+#pyowm  #weather API library from langchain
+cryptography #needed for https ssl certifacte addon in flask
+reportlab
+pandas
+dnspython
+fuzzywuzzy
+langgraph
+openai
+flask-cors
